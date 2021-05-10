@@ -1,0 +1,41 @@
+{
+    "project_info": {
+        "project_number": "147053141410",
+        "firebase_url": "https://brick-fin-default-rtdb.firebaseio.com",
+        "project_id": "brick-fin",
+        "storage_bucket": "brick-fin.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:147053141410:android:edea7c1bddf5dd35cb66fb",
+            "android_client_info": {
+                "package_name": "com.budfox"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "147053141410-3m9h7m32pq28ao6tjpkk3ebhkd3ritkl.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.budfox",
+                    "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+                }
+            },
+            {
+                "client_id": "147053141410-s3h7a0nln14ptvhrqf3j1unvdpsrekgu.apps.googleusercontent.com",
+                "client_type": 1
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyChFyllyIo2JKyPIMu_WmoyfGXov2n1Y3A"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "147053141410-s3h7a0nln14ptvhrqf3j1unvdpsrekgu.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

@@ -20,6 +20,8 @@ const EnterNumber = ({navigation}) => {
     index: 0,
     actions: [NavigationActions.navigate({routeName: 'Home'})],
   });
+
+
   const loginInto = () => {
     navigation.dispatch(loginScreenAction);
   };
